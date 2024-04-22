@@ -103,6 +103,22 @@ nav ul li a:hover {
 	transition: all 1s;
 }
 
+.start-learn{
+	background-color: #DF2771 !important;
+	color: white !important;
+	margin-right: 10px;
+}
+
+.take-quiz{
+	border-color: #DF2771 !important;
+	color: black !important;
+}
+
+.take-quiz:hover {
+	background: #DF2771 !important;
+	color: white !important;
+}
+
 a, button {
 	float: left;
 	font-family: "Montserrat", sans-serif;
